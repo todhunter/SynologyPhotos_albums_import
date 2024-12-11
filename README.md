@@ -1,4 +1,4 @@
-# SynologyPhotos_albums_import
+# Synology Photos albums import
 Synology Photos albums import from Google Takeout
 
 Script is not ideal byt I dont find any solution to create my albums from Google Takeout in Synology Photos
